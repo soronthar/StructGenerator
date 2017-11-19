@@ -1,0 +1,21 @@
+{
+  "modListVersion": 2,
+  "modList": [{
+    "modid": "structgen",
+    "name": "Structure Generator",
+    "description": "Let's see where this get us.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": " ",
+    "updateUrl": "",
+    "authorList": [ "soronthar" ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [ "" ],
+    "parent": "",
+    "requiredMods": [  ],
+    "dependencies": [  ],
+    "dependants": [ ],
+    "useDependencyInformation": true
+  }]
+}
